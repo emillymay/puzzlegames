@@ -1,0 +1,1 @@
+//two components "emptytile", "filledtile" to render the tiles in the puzzle.js
